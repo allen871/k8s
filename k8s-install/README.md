@@ -1,5 +1,5 @@
-# ansible
-k8s安装,1.20
+# ansible k8s安装,1.20
+
 
 1. 修改主机名，配置hosts和安装内核
   ansible-playbook -i hosts start01.yml
